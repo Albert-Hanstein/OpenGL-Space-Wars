@@ -27,7 +27,7 @@ List of files:
 - Screenshot.PNG	- A screenshot of the program
 - shaderClass.h	- My own header file for setting up shaders
 - skybox		- The .vert and .frag files are the shaders for the skybox
-- tutorial_cone.cpp - The .cpp file for my code
+- Virtual_World.cpp - The main .cpp file for my code
 - tutorial3	- The .vert and .frag files are the shaders for the planets
 
 How to build the program:
