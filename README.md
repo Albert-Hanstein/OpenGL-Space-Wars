@@ -1,6 +1,8 @@
 # OpenGL-Space-Wars
 A 'Space Wars' themed virtual world, created using OpenGL in C++
 
+![Image of Screenshot](https://github.com/Albert-Hanstein/OpenGL-Space-Wars/blob/master/Screenshot.PNG)
+
 How to operate the program:
 - UP 		- Accelerate front
 - DOWN 		- Decelerate until stopping
